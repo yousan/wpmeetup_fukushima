@@ -1,0 +1,5 @@
+# wpmeetup_fukushima
+
+githubハンズオン用のリポジトリ
+
+ここでは、WordPress公式テーマのTwentyNinteenの子テーマを作成しています。
