@@ -5,5 +5,5 @@ function theme_enqueue_styles() {
 }
 
 add_action ( 'the_content', function($content) {
-    return $content . 'hello';
+    return $content . 'hello2';
 });
