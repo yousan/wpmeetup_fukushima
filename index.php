@@ -20,17 +20,10 @@ get_header();
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
 こんにちは、でもです。
-<<<<<<< HEAD
-こんにちは、でもでもです。
-
-こんにちは、遠藤です。
-=======
 こんばんは。
-<<<<<<< HEAD
->>>>>>> 0934df5584b4d631bfac502d83ae2c2ae8bfa076
-=======
-橋本＿テスト
->>>>>>> dc8f6066117a37aee0186ce463310b2fb1601de8
+こんばんにちは。
+おはこんばんちは！<br>
+
 		<?php
 		if ( have_posts() ) {
 
@@ -50,7 +43,8 @@ get_header();
 
 		}
 		?>
-
+		Hello!!
+		nishimakibranch
 		</main><!-- .site-main -->
 	</section><!-- .content-area -->
 
