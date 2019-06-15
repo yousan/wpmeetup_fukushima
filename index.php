@@ -44,6 +44,7 @@ get_header();
 		}
 		?>
 		Hello!!
+		nishimakibranch
 		</main><!-- .site-main -->
 	</section><!-- .content-area -->
 
