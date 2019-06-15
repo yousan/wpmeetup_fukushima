@@ -21,6 +21,7 @@ get_header();
 		<main id="main" class="site-main">
 こんにちは、でもです。
 コメント追加
+（橋本）コメント追加
 		<?php
 		if ( have_posts() ) {
 
