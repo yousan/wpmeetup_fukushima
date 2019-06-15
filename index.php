@@ -16,13 +16,17 @@
 
 get_header();
 ?>
-どうもemrumです。
+
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
 こんにちは、でもです。
+<<<<<<< HEAD
 こんにちは、でもでもです。
 
 こんにちは、遠藤です。
+=======
+こんばんは。
+>>>>>>> 0934df5584b4d631bfac502d83ae2c2ae8bfa076
 		<?php
 		if ( have_posts() ) {
 
