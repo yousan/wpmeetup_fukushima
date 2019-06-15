@@ -40,7 +40,7 @@ get_header();
 
 		}
 		?>
-
+下の行あたりににかしらを追加してみる。
 		</main><!-- .site-main -->
 	</section><!-- .content-area -->
 
