@@ -20,6 +20,7 @@ get_header();
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
 こんにちは、でもです。
+コメント追加
 		<?php
 		if ( have_posts() ) {
 
