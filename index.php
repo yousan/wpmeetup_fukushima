@@ -21,6 +21,9 @@ get_header();
 		<main id="main" class="site-main">
 こんにちは、でもです。
 こんばんは。
+こんばんにちは。
+おはこんばんちは！<br>
+
 		<?php
 		if ( have_posts() ) {
 
@@ -40,7 +43,8 @@ get_header();
 
 		}
 		?>
-下の行あたりににかしらを追加してみる。
+		Hello!!
+		自分のコメントwも入れます。
 		</main><!-- .site-main -->
 	</section><!-- .content-area -->
 
