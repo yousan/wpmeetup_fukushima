@@ -16,11 +16,14 @@
 
 get_header();
 ?>
-どうもemrumです。
+
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
 こんにちは、でもです。
-こんにちは、でもでもです。
+こんばんは。
+こんばんにちは。
+おはこんばんちは！<br>
+
 		<?php
 		if ( have_posts() ) {
 
@@ -40,7 +43,8 @@ get_header();
 
 		}
 		?>
-
+		Hello!!
+		nishimakibranch
 		</main><!-- .site-main -->
 	</section><!-- .content-area -->
 
