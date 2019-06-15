@@ -21,6 +21,7 @@ get_header();
 		<main id="main" class="site-main">
 こんにちは、でもです。
 こんばんは。
+橋本＿テスト
 		<?php
 		if ( have_posts() ) {
 
